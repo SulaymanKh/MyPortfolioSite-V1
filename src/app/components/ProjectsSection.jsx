@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/SulaymanKh/MyPortfolioSite-V1",
-    previewUrl: "www.sulaymankhan.co.uk/",
+    previewUrl: "https://www.sulaymankhan.co.uk/",
   },
   {
     id: 2,
