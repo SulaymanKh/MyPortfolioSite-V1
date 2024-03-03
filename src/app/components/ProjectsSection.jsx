@@ -11,8 +11,8 @@ const projectsData = [
     description: "Designed and developed my portfolio website using Next.js, serving as a dynamic showcase for my current and upcoming projects. This platform reflects my commitment to clean and innovative web design, providing a comprehensive overview of my skills and achievements in the field of software development.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/SulaymanKh/MyPortfolioSite-V1",
+    previewUrl: "www.sulaymankhan.co.uk/",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const projectsData = [
     description: "Created a Next.js website for a mathematics tuition company, offering an interactive platform that efficiently communicates course details and schedules. The site enhances the company’s digital presence, showcasing my expertise in web development for educational services.",
     image: "/images/projects/eMinds.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/SulaymanKh/eMindsSite-V2",
     previewUrl: "https://emindseducation.co.uk/",
   },
   {
